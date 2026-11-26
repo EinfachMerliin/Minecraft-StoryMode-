@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" A ", "ADA", " A "],
+  "key": {
+    "A": { "item": "minecraft:amethyst_shard" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": { "item": "echoesofarcadia:echo_shard", "count": 1 }
+}

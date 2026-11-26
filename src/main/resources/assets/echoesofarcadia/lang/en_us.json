@@ -1,0 +1,17 @@
+{
+  "item.echoesofarcadia.echo_shard": "Echo Shard",
+  "item.echoesofarcadia.archive_seal": "Seal of Arcadia",
+  "item.echoesofarcadia.signal_drum": "Signal Drum",
+  "item.echoesofarcadia.archive_guide_spawn_egg": "Archive Guide Spawn Egg",
+  "entity.echoesofarcadia.archive_guide": "Archive Guide",
+  "itemGroup.echoesofarcadia": "Minecraft StoryMode+",
+  "message.echoesofarcadia.quest_started": "The Whispering Archive – Find an Echo Shard.",
+  "message.echoesofarcadia.quest_need_shard": "The Archive Guide is waiting for an Echo Shard.",
+  "message.echoesofarcadia.quest_finale": "The memory awakens...",
+  "message.echoesofarcadia.quest_complete": "Quest complete: The Whispering Archive",
+  "message.echoesofarcadia.quest_done": "The story of Arcadia has been preserved.",
+  "cutscene.echoesofarcadia.title": "THE WHISPERING ARCHIVE",
+  "cutscene.echoesofarcadia.line1": "An echo only lives when someone listens.",
+  "cutscene.echoesofarcadia.line2": "Keep the stories others have forgotten.",
+  "cutscene.echoesofarcadia.line3": "— The Archive of Arcadia"
+}

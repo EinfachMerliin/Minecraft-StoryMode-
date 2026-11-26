@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" S ", "SDS", " S "],
+  "key": {
+    "S": { "item": "minecraft:string" },
+    "D": { "item": "minecraft:oak_log" }
+  },
+  "result": { "item": "echoesofarcadia:signal_drum", "count": 1 }
+}

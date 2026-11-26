@@ -1,0 +1,17 @@
+{
+  "item.echoesofarcadia.echo_shard": "Echosplitter",
+  "item.echoesofarcadia.archive_seal": "Siegel von Arcadia",
+  "item.echoesofarcadia.signal_drum": "Signaltrommel",
+  "item.echoesofarcadia.archive_guide_spawn_egg": "Archivführer-Spawn-Ei",
+  "entity.echoesofarcadia.archive_guide": "Archivführer",
+  "itemGroup.echoesofarcadia": "Minecraft StoryMode+",
+  "message.echoesofarcadia.quest_started": "§6Das flüsternde Archiv §7– Finde einen Echosplitter.",
+  "message.echoesofarcadia.quest_need_shard": "§7Der Archivführer wartet auf einen Echosplitter.",
+  "message.echoesofarcadia.quest_finale": "§dDie Erinnerung erwacht …",
+  "message.echoesofarcadia.quest_complete": "§aQuest abgeschlossen: Das flüsternde Archiv",
+  "message.echoesofarcadia.quest_done": "§7Die Geschichte von Arcadia wurde bewahrt.",
+  "cutscene.echoesofarcadia.title": "DAS FLÜSTERNDE ARCHIV",
+  "cutscene.echoesofarcadia.line1": "Ein Echo wird erst lebendig, wenn jemand zuhört.",
+  "cutscene.echoesofarcadia.line2": "Bewahre die Geschichten, die andere vergessen haben.",
+  "cutscene.echoesofarcadia.line3": "— Das Archiv von Arcadia"
+}
